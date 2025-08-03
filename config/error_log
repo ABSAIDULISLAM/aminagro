@@ -1,0 +1,4 @@
+[24-Feb-2025 15:49:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/agroclassic/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/agroclassic/public_html/config/database.php on line 18
